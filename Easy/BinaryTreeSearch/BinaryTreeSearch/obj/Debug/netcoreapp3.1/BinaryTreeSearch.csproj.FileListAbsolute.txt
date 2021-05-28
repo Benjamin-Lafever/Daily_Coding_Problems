@@ -1,0 +1,13 @@
+C:\Users\Benjamin.Lafever\Desktop\Daily Coding problems\Easy\BinaryTreeSearch\BinaryTreeSearch\bin\Debug\netcoreapp3.1\BinaryTreeSearch.exe
+C:\Users\Benjamin.Lafever\Desktop\Daily Coding problems\Easy\BinaryTreeSearch\BinaryTreeSearch\bin\Debug\netcoreapp3.1\BinaryTreeSearch.deps.json
+C:\Users\Benjamin.Lafever\Desktop\Daily Coding problems\Easy\BinaryTreeSearch\BinaryTreeSearch\bin\Debug\netcoreapp3.1\BinaryTreeSearch.runtimeconfig.json
+C:\Users\Benjamin.Lafever\Desktop\Daily Coding problems\Easy\BinaryTreeSearch\BinaryTreeSearch\bin\Debug\netcoreapp3.1\BinaryTreeSearch.runtimeconfig.dev.json
+C:\Users\Benjamin.Lafever\Desktop\Daily Coding problems\Easy\BinaryTreeSearch\BinaryTreeSearch\bin\Debug\netcoreapp3.1\BinaryTreeSearch.dll
+C:\Users\Benjamin.Lafever\Desktop\Daily Coding problems\Easy\BinaryTreeSearch\BinaryTreeSearch\bin\Debug\netcoreapp3.1\BinaryTreeSearch.pdb
+C:\Users\Benjamin.Lafever\Desktop\Daily Coding problems\Easy\BinaryTreeSearch\BinaryTreeSearch\obj\Debug\netcoreapp3.1\BinaryTreeSearch.AssemblyInfoInputs.cache
+C:\Users\Benjamin.Lafever\Desktop\Daily Coding problems\Easy\BinaryTreeSearch\BinaryTreeSearch\obj\Debug\netcoreapp3.1\BinaryTreeSearch.AssemblyInfo.cs
+C:\Users\Benjamin.Lafever\Desktop\Daily Coding problems\Easy\BinaryTreeSearch\BinaryTreeSearch\obj\Debug\netcoreapp3.1\BinaryTreeSearch.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin.Lafever\Desktop\Daily Coding problems\Easy\BinaryTreeSearch\BinaryTreeSearch\obj\Debug\netcoreapp3.1\BinaryTreeSearch.dll
+C:\Users\Benjamin.Lafever\Desktop\Daily Coding problems\Easy\BinaryTreeSearch\BinaryTreeSearch\obj\Debug\netcoreapp3.1\BinaryTreeSearch.pdb
+C:\Users\Benjamin.Lafever\Desktop\Daily Coding problems\Easy\BinaryTreeSearch\BinaryTreeSearch\obj\Debug\netcoreapp3.1\BinaryTreeSearch.genruntimeconfig.cache
+C:\Users\Benjamin.Lafever\Desktop\Daily Coding problems\Easy\BinaryTreeSearch\BinaryTreeSearch\obj\Debug\netcoreapp3.1\BinaryTreeSearch.csprojAssemblyReference.cache

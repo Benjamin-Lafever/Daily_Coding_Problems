@@ -1,0 +1,13 @@
+C:\Users\Benjamin.Lafever\Desktop\Daily Coding problems\Easy\Rotate_array_by_k\Rotate_array_by_k\bin\Debug\netcoreapp3.1\Rotate_array_by_k.exe
+C:\Users\Benjamin.Lafever\Desktop\Daily Coding problems\Easy\Rotate_array_by_k\Rotate_array_by_k\bin\Debug\netcoreapp3.1\Rotate_array_by_k.deps.json
+C:\Users\Benjamin.Lafever\Desktop\Daily Coding problems\Easy\Rotate_array_by_k\Rotate_array_by_k\bin\Debug\netcoreapp3.1\Rotate_array_by_k.runtimeconfig.json
+C:\Users\Benjamin.Lafever\Desktop\Daily Coding problems\Easy\Rotate_array_by_k\Rotate_array_by_k\bin\Debug\netcoreapp3.1\Rotate_array_by_k.runtimeconfig.dev.json
+C:\Users\Benjamin.Lafever\Desktop\Daily Coding problems\Easy\Rotate_array_by_k\Rotate_array_by_k\bin\Debug\netcoreapp3.1\Rotate_array_by_k.dll
+C:\Users\Benjamin.Lafever\Desktop\Daily Coding problems\Easy\Rotate_array_by_k\Rotate_array_by_k\bin\Debug\netcoreapp3.1\Rotate_array_by_k.pdb
+C:\Users\Benjamin.Lafever\Desktop\Daily Coding problems\Easy\Rotate_array_by_k\Rotate_array_by_k\obj\Debug\netcoreapp3.1\Rotate_array_by_k.csprojAssemblyReference.cache
+C:\Users\Benjamin.Lafever\Desktop\Daily Coding problems\Easy\Rotate_array_by_k\Rotate_array_by_k\obj\Debug\netcoreapp3.1\Rotate_array_by_k.AssemblyInfoInputs.cache
+C:\Users\Benjamin.Lafever\Desktop\Daily Coding problems\Easy\Rotate_array_by_k\Rotate_array_by_k\obj\Debug\netcoreapp3.1\Rotate_array_by_k.AssemblyInfo.cs
+C:\Users\Benjamin.Lafever\Desktop\Daily Coding problems\Easy\Rotate_array_by_k\Rotate_array_by_k\obj\Debug\netcoreapp3.1\Rotate_array_by_k.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin.Lafever\Desktop\Daily Coding problems\Easy\Rotate_array_by_k\Rotate_array_by_k\obj\Debug\netcoreapp3.1\Rotate_array_by_k.dll
+C:\Users\Benjamin.Lafever\Desktop\Daily Coding problems\Easy\Rotate_array_by_k\Rotate_array_by_k\obj\Debug\netcoreapp3.1\Rotate_array_by_k.pdb
+C:\Users\Benjamin.Lafever\Desktop\Daily Coding problems\Easy\Rotate_array_by_k\Rotate_array_by_k\obj\Debug\netcoreapp3.1\Rotate_array_by_k.genruntimeconfig.cache

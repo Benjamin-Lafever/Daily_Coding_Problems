@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rKsK1wE81pInAVNrA0M09gUxYgagG00kfAQWW8Oa0zGSjg931BH1+8Rlibw2e2DuVTeIgnUcakOJsrlxXkkT2Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Benjamin.Lafever\\Desktop\\Daily Coding problems\\Easy\\Permutation\\Permutation\\Permutation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Benjamin.Lafever\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
