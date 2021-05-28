@@ -1,0 +1,13 @@
+C:\Users\Benjamin.Lafever\Desktop\Daily Coding problems\Medium\Shuffle_Deck\Shuffle_Deck\bin\Debug\netcoreapp3.1\Shuffle_Deck.exe
+C:\Users\Benjamin.Lafever\Desktop\Daily Coding problems\Medium\Shuffle_Deck\Shuffle_Deck\bin\Debug\netcoreapp3.1\Shuffle_Deck.deps.json
+C:\Users\Benjamin.Lafever\Desktop\Daily Coding problems\Medium\Shuffle_Deck\Shuffle_Deck\bin\Debug\netcoreapp3.1\Shuffle_Deck.runtimeconfig.json
+C:\Users\Benjamin.Lafever\Desktop\Daily Coding problems\Medium\Shuffle_Deck\Shuffle_Deck\bin\Debug\netcoreapp3.1\Shuffle_Deck.runtimeconfig.dev.json
+C:\Users\Benjamin.Lafever\Desktop\Daily Coding problems\Medium\Shuffle_Deck\Shuffle_Deck\bin\Debug\netcoreapp3.1\Shuffle_Deck.dll
+C:\Users\Benjamin.Lafever\Desktop\Daily Coding problems\Medium\Shuffle_Deck\Shuffle_Deck\bin\Debug\netcoreapp3.1\Shuffle_Deck.pdb
+C:\Users\Benjamin.Lafever\Desktop\Daily Coding problems\Medium\Shuffle_Deck\Shuffle_Deck\obj\Debug\netcoreapp3.1\Shuffle_Deck.csprojAssemblyReference.cache
+C:\Users\Benjamin.Lafever\Desktop\Daily Coding problems\Medium\Shuffle_Deck\Shuffle_Deck\obj\Debug\netcoreapp3.1\Shuffle_Deck.AssemblyInfoInputs.cache
+C:\Users\Benjamin.Lafever\Desktop\Daily Coding problems\Medium\Shuffle_Deck\Shuffle_Deck\obj\Debug\netcoreapp3.1\Shuffle_Deck.AssemblyInfo.cs
+C:\Users\Benjamin.Lafever\Desktop\Daily Coding problems\Medium\Shuffle_Deck\Shuffle_Deck\obj\Debug\netcoreapp3.1\Shuffle_Deck.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin.Lafever\Desktop\Daily Coding problems\Medium\Shuffle_Deck\Shuffle_Deck\obj\Debug\netcoreapp3.1\Shuffle_Deck.dll
+C:\Users\Benjamin.Lafever\Desktop\Daily Coding problems\Medium\Shuffle_Deck\Shuffle_Deck\obj\Debug\netcoreapp3.1\Shuffle_Deck.pdb
+C:\Users\Benjamin.Lafever\Desktop\Daily Coding problems\Medium\Shuffle_Deck\Shuffle_Deck\obj\Debug\netcoreapp3.1\Shuffle_Deck.genruntimeconfig.cache

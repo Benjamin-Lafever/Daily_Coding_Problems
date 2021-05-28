@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Shuffle_Deck/1.0.0": {
+        "runtime": {
+          "Shuffle_Deck.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Shuffle_Deck/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
